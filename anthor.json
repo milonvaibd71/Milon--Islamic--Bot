@@ -15,7 +15,7 @@
     "removeSt": false,
     "NOTIFICATION": true,
     "notiGroup": true,
-    "BOTNAME": "𝗦𝗔𝗛𝗨 𝗜𝗦𝗟𝗔𝗠𝗜𝗖 𝗕𝗢𝗧",
+    "BOTNAME": "Milon-Islamic-Bot",
     "PREFIX": "/",
     "reactUnsend": [
         "😡",
@@ -32,7 +32,7 @@
         "100044713412032"
     ],
     "AuthorName": "SHAHADAT SAHU",
-    "AuthorNickName": "সাহু",
+    "AuthorNickName": "Milon",
     "AuthorBotName": "SAHU ISLAMIC BOT",
     "AuthorGender": "Male",
     "AuthorAge": "18+",
