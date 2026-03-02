@@ -1,82 +1,102 @@
-{
-    "version": "1.0.0",
-    "language": "en",
-    "keyActive": "",
-    "EMAIL": "",
-    "PASSWORD": "",
-    "OTPKEY": "",
-    "selfListen": false,
-    "DeveloperMode": false,
-    "autoCreateDB": true,
-    "allowInbox": true,
-    "autoClean": true,
-    "adminOnly": false,
-    "encryptSt": false,
-    "removeSt": false,
-    "NOTIFICATION": true,
-    "notiGroup": true,
-    "BOTNAME": "Milon-Islamic-Bot",
-    "PREFIX": "/",
-    "reactUnsend": [
-        "😡",
-        "🤧",
-        "😤",
-        "😠"
-    ],
-    "ADMINBOT": [
-        "100044713412032",
-        "100047211079054",
-        "61587787857742"
-    ],
-    "NDH": [
-        "100044713412032"
-    ],
-    "AuthorName": "SHAHADAT SAHU",
-    "AuthorNickName": "Milon",
-    "AuthorBotName": "SAHU ISLAMIC BOT",
-    "AuthorGender": "Male",
-    "AuthorAge": "18+",
-    "AuthorReligion": "Islam",
-    "AuthorRelationalStatus": "Single",
-    "AuthorLocation": "Bangladesh",
-    "AuthorPhoto": "https://i.imgur.com/Zhs0omh.jpeg",
-    "AuthorImgur": "https://i.imgur.com/zqsuJnX.jpeg",
-    "AuthorGithub": "https://github.com/shahadat-sahu",
-    "AuthorFacebook": "https://fb.com/100044713412032",
-    "AuthorMessenger": "https://m.me/100044713412032",
-    "AuthorWhatsApp": "https://wa.me/8801882333052",
-    "AuthorTelegram": "https://t.me/yoursahu",
-    "APPSTATEPATH": "cokiState.json",
-    "FCAOption": {
-        "forceLogin": true,
-        "listenEvents": true,
-        "pauseLog": true,
-        "logLevel": "error",
-        "selfListen": false,
-        "userAgent": "Mozilla/5.0 (Android 16; SM-A356E) Chrome/145.0 Mobile Safari/537.36"
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261581637891369%22%3A%22KwsljYEB%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.307Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
     },
-    "DATABASE": {
-        "sqlite": {
-            "storage": "data.sqlite"
-        }
+    {
+        "key": "datr",
+        "value": "SqShaUoTzacynq5EjPZuhIU-",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
     },
-    "menu": {
-        "autoUnsend": true,
-        "delayUnsend": 60
+    {
+        "key": "sb",
+        "value": "SqShaTwQ7aze9N7h_saKgZu8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
     },
-    "help": {
-        "autoUnsend": true,
-        "delayUnsend": 120
+    {
+        "key": "c_user",
+        "value": "61581637891369",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
     },
-    "adminUpdate": {
-        "autoUnsend": true,
-        "sendNoti": true,
-        "timeToUnsend": 30
+    {
+        "key": "xs",
+        "value": "1%3AHMwrHIEqkbpNGw%3A2%3A1772201054%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
     },
-    "log": {
-        "enable": true
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
     },
-    "weather": {
-        "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
+    {
+        "key": "pas",
+        "value": "61581637891369%3AgmlWwuFG1K",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B751x412x2.625",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
+    },
+    {
+        "key": "fr",
+        "value": "0cn7u3MJOxRfGEulL.AWcQHWhqloEDO02bEjAVhL-dIW2SrmBDcaZ4re_9A9j5YeEGWHs.BpoaRK..AAA.0.0.Bpphvs.AWdHbHDKqM8fkrnvpSoEwQimpZA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101728095%3BT%3A29541563",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3101%3Btimestamp%3A1772493805",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-02T23:23:41.308Z",
+        "lastAccessed": "2026-03-02T23:23:41.308Z"
     }
-}
+]
+        
